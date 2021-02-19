@@ -1,9 +1,9 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyB-MFXaDMr3DHk6nGOONZMXJ7pT5mByRW0",
+  apiKey: "your firebase api",
   authDomain: "whatsapp-mernstack-e11f0.firebaseapp.com",
-  projectId: "whatsapp-mernstack-e11f0",
-  storageBucket: "whatsapp-mernstack-e11f0.appspot.com",
-  messagingSenderId: "873432731128",
-  appId: "1:873432731128:web:1dda870b263e12221cda0d",
-  measurementId: "G-NWXNHBQN6K",
+  projectId: "whatsapp-mernstack-name",
+  storageBucket: "whatsapp-namem-.appspot.com",
+  messagingSenderId: "87331128",
+  appId: "1:8734327311b263e12221cda0d",
+  measurementId:"HBQN6K",
 };
